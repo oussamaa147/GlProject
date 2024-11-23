@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  newfolder2:
+    image: newfolder2
+    build:
+      context: .
+      dockerfile: ./Dockerfile
