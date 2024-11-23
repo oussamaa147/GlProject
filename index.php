@@ -1,5 +1,6 @@
 <?php
+// Include the database connection file
+include 'db.php';
 
-    echo "No records found in the User table.";
 
 ?>
